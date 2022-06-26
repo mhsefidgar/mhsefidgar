@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Sefidgar 
 - 👀 I’m interested in deep learning  and computer vision 
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on my interest
+- 💞️ I’m looking to collaborate on my interests
 - 📫 How to reach me ...
 
 <!---

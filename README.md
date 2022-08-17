@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on my interests
 - 📫 How to reach me 
 
-LinkedIn 👉 https://www.linkedin.com/in/mohammad-sefidgar/
-Google Scholar 👉 https://scholar.google.com/citations?user=mibwsFAAAAAJ&hl=en
+- LinkedIn 👉 https://www.linkedin.com/in/mohammad-sefidgar/
+
+- Google Scholar 👉 https://scholar.google.com/citations?user=mibwsFAAAAAJ&hl=en
 
 
 

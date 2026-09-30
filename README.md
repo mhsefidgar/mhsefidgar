@@ -8,6 +8,8 @@
 
 - Google Scholar 👉 https://scholar.google.com/citations?user=mibwsFAAAAAJ&hl=en
 
+- Profile 👉 https://mhsefidgar.github.io/AgenticAI.github.io/index.html
+- 
 ## 🛠️ Tech Stack
 
 ### 💡 Machine Learning & NLP
